@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>TPB</string>
+			<key>Image File</key>
+			<string>tpblogo.png</string>
+			<key>URL</key>
+			<string>http://thepiratebay.sx/search/{popclip text}/0/7/0</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>The Pirate Bay search. Sorted by number of seeds in ascending order.</string>
+	<key>Extension Identifier</key>
+	<string>com.qxlab.popclip.extension.tpb</string>
+	<key>Extension Name</key>
+	<string>TPB Search</string>
+</dict>
+</plist>
