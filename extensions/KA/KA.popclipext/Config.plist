@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>kalogo.png</string>
+			<key>Title</key>
+			<string>KA</string>
+			<key>URL</key>
+			<string>https://kickass.to/usearch/{popclip text} category:movies/?field=seeders&amp;amp;sorder=desc</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>KickAss search. Sorted by number of seeds in descending order.</string>
+	<key>Extension Identifier</key>
+	<string>com.qxlab.popclip.extension.ka</string>
+	<key>Extension Name</key>
+	<string>KA Search</string>
+</dict>
+</plist>
